@@ -1,0 +1,6 @@
+{
+  "name": "HeWeather",
+  "country": "CN",
+  "render_readme": false,
+  "domains": ["sensor"]
+}

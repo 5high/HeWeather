@@ -1,3 +1,7 @@
+注册和风天气并获取API
+
+https://id.qweather.com/#/register
+
 配置内容如下
 ```
 sensor:

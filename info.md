@@ -1,5 +1,5 @@
 配置内容如下
-'''
+```
 sensor:
   - platform: HeWeather
     city: auto_ip 或者 填写城市名称 eg（北京，beijing）
@@ -30,4 +30,4 @@ sensor:
       - tmp_max
       - tmp_min
       - pop
-'''
+```

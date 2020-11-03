@@ -35,3 +35,9 @@ sensor:
       - tmp_min
       - pop
 ```
+
+更多教程    :https://sumju.net
+电报  群    :https://t.me/joinchat/J26zVFGMhWWB1sBTFvcjaA
+电报频道    :https://t.me/itcommander
+Twitter    :https://twitter.com/itcommander2
+Facebook.  :https://www.facebook.com/itcommander.itcommander.1
